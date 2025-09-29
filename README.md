@@ -1,4 +1,4 @@
-## UoE Compsec lab on a personal laptop
+## UoE Compsec CW1 on a personal laptop
 
 Tested using a fresh Ubuntu 24.04.1 LTS.
 
