@@ -46,3 +46,18 @@ echo ":: Starting SPICE client"
 * Run the script `./startvm`.
 
 You're good to go!
+
+### Metasploit
+
+Install cURL.
+```
+sudo apt install curl
+```
+Install Metasploit.
+```
+curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && chmod 755 msfinstall && ./msfinstall
+```
+You can now start the console using:
+```
+/opt/metasploit-framework/bin/msfconsole
+```
