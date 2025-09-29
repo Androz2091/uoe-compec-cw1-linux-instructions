@@ -19,11 +19,11 @@ sudo apt install -y 7zip
 ```
 7z x cw1.7z
 ```
-* Install Qemu and Remote Viewer
+* Install Qemu and Remote Viewer.
 ```
 sudo apt install qemu-system virt-viewer
 ```
-* Patch the `startvm` script with the following changes.
+* Edit the `startvm` script and make the following changes:
 ```diff
 #!/usr/bin/env bash
 set -e
@@ -45,4 +45,4 @@ echo ":: Starting SPICE client"
 * Make the script executable `chmod +x startvm`.
 * Run the script `./startvm`.
 
-* You're good to go!
+You're good to go!
