@@ -8,11 +8,11 @@ Tested using a fresh Ubuntu 24.04.1 LTS.
 
 * Update your system.
 ```
-sudo apt-get update
+sudo apt update
 ```
 * Install 7zip.
 ```
-sudo apt-get install -y 7zip
+sudo apt install -y 7zip
 ```
 * Download `cw1.7z` from Learn.
 * Unzip the file.
