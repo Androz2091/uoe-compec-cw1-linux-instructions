@@ -1,6 +1,6 @@
 ## UoE Compsec CW1 on a personal laptop
 
-Tested using a fresh Ubuntu 24.04.1 LTS.
+Tested using a fresh Ubuntu 24.04.1 LTS. If you are using Windows, you can easily install Ubuntu on a USB stick and boot on this stick (it's not a dual boot, Linux will disappear once you unplug the stick).
 
 <img width="1920" height="1198" alt="image" src="https://github.com/user-attachments/assets/a240d82c-93a5-4f74-b500-bddb03ac4868" />
 
